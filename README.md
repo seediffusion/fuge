@@ -42,7 +42,7 @@ Some popular emulators include:
 
 * [RetroArch](https://retroarch.com/), a launcher, or frontend(see below) for many different emulators.
 * [Dolphin](https://dolphin-emu.org/), an emulator for the Nintendo GameCube and Wii.
-* [MAME, Multi Arcade Machine Emulator](https://www.mamedev.org/), an emulator for thousands of video game arcade cabinates and vintage computer systems.
+* [MAME, Multi Arcade Machine Emulator](https://www.mamedev.org/), an emulator for thousands of video game arcade cabinets and vintage computer systems.
 * [Mednafen](https://mednafen.github.io/), an emulator for the Apple II, Atari Lynx, NeoGeo, GameBoy, PS1 and others.
 * [PCSX2](https://pcsx2.net/), for the Sony Playstation 2.
 
