@@ -1,4 +1,4 @@
-# Fuge: the free, ultimate guide to emulation!
+# FUGE: the Free, Ultimate Guide to Emulation!
 
 * [Introduction](#introduction)
 * [Inspiration](#inspiration)
@@ -10,19 +10,19 @@
 
 ## Introduction
 
-Welcome to Fuge, the free, ultimate guide to emulation! If you are blind or visually impaired, Fuge is your one-stop shop for guides, tips, tricks, how-tos, and a whole lot more, designed to provide you with all the knowledge and tools you need to experience the wonderful and fascinating world of retro video game emulation.
-When we say Fuge is free, we really mean free! Free of charge, free of ads, free of spying cookies, free to use, free to modify, and even [free of license](https://unlicense.org/). Fuge is entirely open source, meaning anyone is allowed to freely download, modify, and host the site if they wish.
+Welcome to FUGE, the free, ultimate guide to emulation! If you are blind or visually impaired, FUGE is your one-stop shop for guides, tips, tricks, how-tos, and a whole lot more, designed to provide you with all the knowledge and tools you need to experience the wonderful and fascinating world of retro video game emulation.
+When we say FUGE is free, we really mean free! Free of charge, free of ads, free of spying cookies, free to use, free to modify, and even [free of license](https://unlicense.org/). FUGE is entirely open source, meaning anyone is allowed to freely download, modify, and host the site if they wish.
 In this introductory page, we will explain a bit about what emulation is, and cover a few common terms you will hear in the emulation scene and what they mean.
 
 ## Inspiration
 
-Fuge is inspired by the [Accessible Retro Games](https://github.com/devinprater/accessible-retro-games) project from Devin Prater, who is totally blind himself. Sadly, however, this project has been inactive for around 4 years.
+FUGE is inspired by the [Accessible Retro Games](https://github.com/devinprater/accessible-retro-games) project from Devin Prater, who is totally blind himself. Sadly, however, this project has been inactive for around 4 years.
 
 ## Notes
 
-* No responsibility shall be taken by any Fuge contributers for any software and/or hardware damage, partial or total data loss etc, that should occur as a result of following Fuge guides. You are responsible for your own equipment and ensuring its maintainence.
-* Since Fuge is targeted towards those who are blind/visually impaired, discussion of the visual aspects of emulation shall be kept to a minimum. Of course, if a contributer wishes to give tips on optimizing the visual experience of an emulator for someone with a little bit of sight, they are more than welcome to do so.
-* For legal reasons, no ROMs or BIOS files shall be provided in any Fuge guides. Those files are to be made available on request only.
+* No responsibility shall be taken by any FUGE contributers for any software and/or hardware damage, partial or total data loss etc, that should occur as a result of following FUGE guides. You are responsible for your own equipment and ensuring its maintainence.
+* Since FUGE is targeted towards those who are blind/visually impaired, discussion of the visual aspects of emulation shall be kept to a minimum. Of course, if a contributer wishes to give tips on optimizing the visual experience of an emulator for someone with a little bit of sight, they are more than welcome to do so.
+* For legal reasons, no ROMs or BIOS files shall be provided in any FUGE guides. Those files are to be made available on request only.
 * It is strongly encouraged, but not required, for contributers to put their name, be it their real name or a nickname or online username, at the top of a guide.
 * Guides must be written in Markdown format. If you're not sure on what Markdown is or its syntax, the [Markdown Guide](https://www.markdownguide.org/) is a great resource to help you learn.
 
@@ -65,7 +65,7 @@ A standalone emulator is one that runs on its own. It can run as a separate prog
 
 ## Contributing
 
-If you wish to make a contribution to Fuge, you can do so at the [official GitHub repository](https://github.com/seediffusion/fuge).
+If you wish to make a contribution to FUGE, you can do so at the [official GitHub repository](https://github.com/seediffusion/FUGE).
 
 ## Contact Seediffusion
 
