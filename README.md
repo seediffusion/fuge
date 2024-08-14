@@ -20,7 +20,7 @@ FUGE is inspired by the [Accessible Retro Games](https://github.com/devinprater/
 
 ## Notes
 
-* No responsibility shall be taken by any FUGE contributers for any software and/or hardware damage, partial or total data loss etc, that should occur as a result of following FUGE guides. You are responsible for your own equipment and ensuring its maintainence.
+* No responsibility shall be taken by any FUGE contributers for any software and/or hardware damage, partial or total data loss etc, that should occur as a result of following FUGE guides. You are responsible for your own equipment and ensuring its maintenance.
 * Since FUGE is targeted towards those who are blind/visually impaired, discussion of the visual aspects of emulation shall be kept to a minimum. Of course, if a contributer wishes to give tips on optimizing the visual experience of an emulator for someone with a little bit of sight, they are more than welcome to do so.
 * For legal reasons, no ROMs or BIOS files shall be provided in any FUGE guides. Those files are to be made available on request only.
 * It is strongly encouraged, but not required, for contributers to put their name, be it their real name or a nickname or online username, at the top of a guide.
