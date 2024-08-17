@@ -1,5 +1,12 @@
 # FUGE: the Free, Ultimate Guide to Emulation!
 
+## Guides navigation
+
+* [The Sightless Fighter's Guide to Knockout Kings 2002, game guide](game-guides/SFG_KOK02.md)
+* [The Sightless Fighter's Guide to Knockout Kings 2003, game guide](game-guides/SFG_KOK03.md)
+
+## Page navigation
+
 * [Introduction](#introduction)
 * [Inspiration](#inspiration)
 * [Notes](notes)
