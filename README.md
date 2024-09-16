@@ -17,7 +17,8 @@
 
 ## Introduction
 
-Welcome to FUGE, the free, ultimate guide to emulation! If you are blind or visually impaired, FUGE is your one-stop shop for guides, tips, tricks, how-tos, and a whole lot more, designed to provide you with all the knowledge and tools you need to experience the wonderful and fascinating world of retro video game emulation.
+Welcome to FUGE, the free, ultimate guide to emulation!
+If you are blind or visually impaired, FUGE, pronounced like 'huge' with an F, or like the first syllable of the word 'fugitive', is your one-stop shop for guides, tips, tricks, how-tos, and a whole lot more, designed to provide you with all the knowledge and tools you need to experience the wonderful and fascinating world of retro video game emulation.
 When we say FUGE is free, we really mean free! Free of charge, free of ads, free of spying cookies, free to use, free to modify, and even [free of license](https://unlicense.org/). FUGE is entirely open source, meaning anyone is allowed to freely download, modify, and host the site if they wish.
 In this introductory page, we will explain a bit about what emulation is, and cover a few common terms you will hear in the emulation scene and what they mean.
 
