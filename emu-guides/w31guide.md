@@ -50,6 +50,7 @@ Hear are the things you'll need to get started following this guide. We'll downl
 Go inside the mingw-build folder with your zip archiver of choice, and copy either the mingw or mingw-sdl2 folders to a location of your choice. Rename the newly copied folder to something easy to remember, like DOSBox.
 Go inside the copied folder and press Control + Shift + N to create a new folder. For the folder name, type
   > CDrive
+  
 and press Enter.
 You can call this folder whatever you like, but we're using CDrive because it's easy to remember. The other reason for this name will make sense later on.
 2. ASAP, the screen reader for MS-DOS.
