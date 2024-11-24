@@ -1,6 +1,6 @@
 [Go home](/)
 
-# The Sightless Fighter's Guide to Knockout Kings 2002, by Seediffusion!
+# The Sightless Fighter's Guide to Knockout Kings 2002, by Stu Hughes!
 
 ## Introduction
 
@@ -180,14 +180,14 @@ I hope this guide was able to help you on your journey to becoming the ultimate 
 
 * [Send me an email](mailto:seedy360@hotmail.com)
 * [Follow Seediffusion on Mastodon](https://tweesecake.social/@seediffusion)
-* [Follow Seedy Three Sixty on Mastodon](https://mastodon.stickbear.me/@seedy)
+* [Follow Stu on Mastodon](https://fwoof.space/@TwoThousandStu)
 * Contact me on Skype: SeedyThreeSixty.
 * Contact me on Discord: seedy360.
 * Message me on MSN or Windows Live Messenger via Escargot Chat: seedy@escargot.chat.
 * [Send me a telegram.](https://t.me/SeedyThreeSixty)
 * [Tweet me!](https://x.com/SeedyThreeSixty)
 * [Visit the Seediffusion website](https://seediffusion.cc)
-* [Visit Seedy Three Sixty's website!](https://seedy.cc)
+* [Visit Stu's website!](https://seedy.cc)
 
 * * *
 
