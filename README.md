@@ -2,8 +2,8 @@
 
 ## Guides navigation
 
-* [The Sightless Fighter's Guide to Knockout Kings 2002, game guide](game-guides/SFG_KOK02.md)
-* [The Sightless Fighter's Guide to Knockout Kings 2003, game guide](game-guides/SFG_KOK03.md)
+* [The Sightless Fighter's Guide to Knockout Kings 2002, game guide](game-guides/SFG_KOK02.html)
+* [The Sightless Fighter's Guide to Knockout Kings 2003, game guide](game-guides/SFG_KOK03.html)
 
 ## Page navigation
 
